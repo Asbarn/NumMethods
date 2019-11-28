@@ -1,0 +1,4 @@
+﻿  lab5.cpp
+C:\Users\kober\source\repos\lab5\lab5\lab5.cpp(63,18): warning C4244:  аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\kober\source\repos\lab5\lab5\lab5.cpp(67,20): warning C4244:  аргумент: преобразование "double" в "float", возможна потеря данных
+  lab5.vcxproj -> C:\Users\kober\source\repos\lab5\Debug\lab5.exe
