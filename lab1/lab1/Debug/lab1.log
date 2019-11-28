@@ -1,0 +1,5 @@
+﻿  lab1.cpp
+c:\users\asbarn\desktop\учеба2\числаки\lab1\lab1\lab1.cpp(13): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\asbarn\desktop\учеба2\числаки\lab1\lab1\lab1.cpp(107): warning C4101: a2: неиспользованная локальная переменная
+c:\users\asbarn\desktop\учеба2\числаки\lab1\lab1\lab1.cpp(107): warning C4101: x2: неиспользованная локальная переменная
+  lab1.vcxproj -> C:\Users\asbarn\Desktop\учеба2\Числаки\lab1\Debug\lab1.exe
