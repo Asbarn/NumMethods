@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  lab4.cpp
+c:\users\asbarn\desktop\учеба2\числаки\lab4\lab4\lab4.cpp(34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\asbarn\desktop\учеба2\числаки\lab4\lab4\lab4.cpp(116): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+c:\users\asbarn\desktop\учеба2\числаки\lab4\lab4\lab4.cpp(130): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  lab4.vcxproj -> C:\Users\asbarn\Desktop\учеба2\Числаки\lab4\Debug\lab4.exe
